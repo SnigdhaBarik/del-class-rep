@@ -1,0 +1,10 @@
+1. Create git repo
+@. Generate token
+3. Clone repository
+       git clone [repo link]
+4. Add files for commit
+       git add -A
+5. Commit changes
+       git commit -m 'description'
+6. Push changes
+       git push
