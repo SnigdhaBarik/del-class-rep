@@ -1,5 +1,5 @@
 1. Create git repo
-@. Generate token
+2. Generate token
 3. Clone repository
        git clone [repo link]
 4. Add files for commit
